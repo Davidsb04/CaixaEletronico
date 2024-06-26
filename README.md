@@ -29,3 +29,5 @@ Para executar o projeto localmente, siga os passos abaixo:
 4. Compile e execute o projeto.
 
 5. Para calcular as cédulas necessárias para um determinado valor de saque, faça uma requisição para o endpoint https://localhost:7297/api/CaixaEletronico do Swagger UI.
+
+![image](https://github.com/Davidsb04/CaixaEletronico/assets/121972361/be4ab12a-b6c4-4641-97df-d1893a97fe68)
