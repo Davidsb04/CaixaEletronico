@@ -1,0 +1,6 @@
+@CaixaEletronico_HostAddress = http://localhost:5094
+
+GET {{CaixaEletronico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
